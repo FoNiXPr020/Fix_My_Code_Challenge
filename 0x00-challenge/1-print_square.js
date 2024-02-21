@@ -1,6 +1,9 @@
 #!/usr/bin/node
 /*
-    Lets Print a square with the character...
+    Print a square with the character #
+    
+    The size of the square must be the first argument 
+    of the program.
 */
 
 
